@@ -5,7 +5,7 @@ permalink: /tutor/
 group: nav
 ---
 
-I jobbet som tutor forventes det af én at man kan deltage i de information møder der ligger i foråret samt rusdagene. For at man som tutor har mulighed for at fokusere på at give sit rushold den bedste start på universitetet, er der på disse informations møde indlagt tid til at man kan få planlagt aktiviteter samt lærer sit tutorhold at kende på de efterfølgende sociale arrangementer. 
+Når man ansøger om at blive tutor forventes det af én at man kan deltage i de information møder der ligger i foråret samt rusdagene. For at man som tutor har mulighed for at fokusere på at give sit rushold den bedste start på universitetet, er der på disse informations møde indlagt tid til at man kan få planlagt aktiviteter samt lærer sit tutorhold at kende på de efterfølgende sociale arrangementer. 
 
 For at blive en del af dette års tutor hold, skal man sende en ansøgning til alle@it-tutor.dk. 
 Denne ansøgning skal som minimum indeholde:
